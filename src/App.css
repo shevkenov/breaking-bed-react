@@ -84,6 +84,7 @@ select{
   cursor: pointer;
   background-color: transparent;
   height: 300px;
+  perspective: 1000px;
 }
 
 .card h1 {
